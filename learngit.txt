@@ -1,7 +1,2 @@
 Creating a new branch is quick and simple.
-<<<<<<< HEAD
 Git is easy.
-=======
-Git is difficult.
-Git AND.
->>>>>>> dev
